@@ -1,10 +1,10 @@
 package com.zto.intl.beans.mapping.orika;
 
+import com.zto.intl.beans.mapping.BeanMapper;
+import com.zto.intl.beans.mapping.MapClassScanner;
 import com.zto.intl.beans.mapping.annotation.MapClass;
 import com.zto.intl.beans.mapping.annotation.MapExclude;
 import com.zto.intl.beans.mapping.annotation.MapField;
-import com.zto.intl.beans.mapping.BeanMapper;
-import com.zto.intl.beans.mapping.MapClassScanner;
 import lombok.Getter;
 import lombok.Setter;
 import ma.glasnost.orika.*;
